@@ -1,23 +1,5 @@
 # 📊 Restaurant Sales Analysis - Q1 2003
 
-## 📑 Table of Contents
-
-1. [📖 Introduction](#-introduction)  
-2. [📌 Project Overview](#-project-overview)  
-3. [🎯 Project Scope](#-project-scope)  
-4. [💼 Business Objectives](#-business-objectives)  
-5. [📄 Document Purpose](#-document-purpose)  
-6. [🧩 Use Case](#-use-case)  
-7. [🗂️ Data Source](#️-data-source)  
-8. [🧾 Dataset Overview](#-dataset-overview)  
-9. [🧹 Data Cleaning and Processing](#-data-cleaning-and-processing)  
-10. [📊 Data Analysis and Insights](#-data-analysis-and-insights)  
-11. [✅ Recommendations](#-recommendations)  
-12. [📌 Conclusion](#-conclusion)  
-13. [📁 Repository Contents](#-repository-contents)  
-
----
-
 ## 📖 Introduction
 
 This project presents a **first-quarter data analysis for a restaurant business in 2003**, using **Microsoft Excel** to uncover patterns in customer orders, product performance, and sales trends. The dataset consists of two related tables:
@@ -30,6 +12,23 @@ The objective is to transform raw transactional data into meaningful business in
 - **Customer order patterns and preferences**
 - **Revenue distribution by product and time**
 - **Menu performance by category and item**
+
+---
+
+## 📑 Table of Contents
+ 
+1. [📌 Project Overview](#-project-overview)  
+2. [🎯 Project Scope](#-project-scope)  
+3. [💼 Business Objectives](#-business-objectives)  
+4. [📄 Document Purpose](#-document-purpose)  
+5. [🧩 Use Case](#-use-case)  
+6. [🗂️ Data Source](#️-data-source)  
+7. [🧾 Dataset Overview](#-dataset-overview)  
+8. [🧹 Data Cleaning and Processing](#-data-cleaning-and-processing)  
+9. [📊 Data Analysis and Insights](#-data-analysis-and-insights)  
+10. [✅ Recommendations](#-recommendations)  
+11. [📌 Conclusion](#-conclusion)  
+12. [📁 Repository Contents](#-repository-contents)  
 
 ---
 
@@ -194,6 +193,14 @@ Key insights revealed include:
 ## 📌 Conclusion
 
 This Excel-based analysis demonstrates how raw restaurant data can be transformed into powerful business intelligence. By evaluating sales patterns, menu trends, and revenue flow, the business can make informed decisions that enhance service delivery, customer satisfaction, and profitability.
+
+---
+
+## 📸 Dashboard Preview
+
+
+
+> *Sample Excel dashboard showing top selling items, low performing items,category performance, sales peak, and high spending order with its menu items.*
 
 ---
 
