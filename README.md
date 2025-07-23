@@ -172,12 +172,94 @@ This comprehensive analysis provides the insights needed to enhance customer sat
 
 Key insights revealed include:
 
-- 🍽️ **Top-selling menu items** by revenue and volume
+- **🧾 Top 5 Selling Items and Their Category – Revenue Insights**
+  
+  ![](https://github.com/Tamoze/-Restaurant-Sales-Analysis---Q1-2003/blob/main/Top%205%20Order%20Items%20and%20their%20Category%20by%20Revnue.png)
 
+ The data highlights the top-performing menu items across four cuisine categories — Asian, Italian, American, and Mexican — based on total revenue generated. Here's a breakdown of the insights drawn from this performance:
 
-- ⏰ **Sales peaks** during weekend lunch and dinner hours  
-- 🥗 **Category performance**   
-- ⚠️ **Low-performing items** identified for review  
+🇰🇷 Asian Category – Total Revenue: $37,915.26
+
+Top Item: Korean Beef Bowl – $10,554.60
+
+Other High Performers:
+
+Tofu Pad Thai – $8,149.00
+
+Orange Chicken – $7,524.00
+
+Pork Ramen – $6,843.86
+
+Salmon Roll – $4,843.80
+
+Insight:
+
+Asian cuisine leads overall, with Korean Beef Bowl being the top-selling item across all categories. This strong performance indicates a high consumer preference for Asian flavors. The diversity in item types (rice bowls, noodles, rolls) suggests a wide appeal across dietary preferences.
+
+🇮🇹 Italian Category – Total Revenue: $32,974.00
+
+Top Item: Spaghetti Meat Balls – $8,436.50
+
+Other High Performers:
+
+Eggplant Parmesan – $7,119.00
+
+Chicken Parmesan – $6,533.50
+
+Mushroom Ravioli – $5,564.50
+
+Spaghetti – $5,321.50
+
+Insight:
+Italian food maintains consistent popularity, with classic dishes like spaghetti and various forms of Parmesan generating strong revenue. These comfort foods offer stability and broad customer appeal, making them ideal for core menu offerings.
+
+🇺🇸 American Category – Total Revenue: $25,924.75
+Top Item: Cheeseburger – $8,132.85
+
+Other High Performers:
+
+Hamburger – $8,054.90
+
+French Fries – $3,997.00
+
+Mac & Cheese – $3,241.00
+
+Veggie Burger – $2,499.00
+
+Insight:
+American cuisine's strength lies in classic fast-food staples, particularly burgers. The nearly equal revenue from cheeseburgers and hamburgers shows high demand, while vegetarian options like Veggie Burger also show emerging interest.
+
+🇲🇽 Mexican Category – Total Revenue: $25,762.15
+Top Item: Steak Torta – $6,821.55
+
+Other High Performers:
+
+Chicken Burrito – $5,892.25
+
+Steak Burrito – $5,292.30
+
+Chicken Torta – $4,529.05
+
+Chips & Salsa – $3,227.00
+
+Insight:
+Mexican dishes deliver strong revenue through a balanced mix of burritos and tortas, with steak-based options earning the highest. The spread suggests robust customer interest in hearty, flavorful street-style items.
+
+*📊 Summary of Key Insights*
+
+Korean Beef Bowl is the overall revenue leader — a standout item for marketing and promotions.
+
+Asian and Italian categories show the highest cumulative revenue, suggesting a strategic focus area for menu development and inventory allocation.
+
+Mexican and American items offer strong competition and diversity, providing opportunities for combination meals or theme-based marketing.
+
+Consistent revenue distribution across items in all categories reflects a balanced menu with broad customer appeal.
+
+- 🍽️ **High Spending Order and its Menu Items from Total Transactions** 
+
+- ⏰ **Sales Peaks** during weekend lunch and dinner hours  
+- 🥗 **Category Performance**   
+- ⚠️ **Low-Performing Items by Revenue** identified for review  
 
 ---
 
@@ -197,7 +279,7 @@ This Excel-based analysis demonstrates how raw restaurant data can be transforme
 ---
 
 ## 📸 Dashboard Preview
-
+![](https://github.com/Tamoze/-Restaurant-Sales-Analysis---Q1-2003/blob/main/Dashboard1.png)
 
 
 > *Sample Excel dashboard showing top selling items, low performing items,category performance, sales peak, and high spending order with its menu items.*
