@@ -173,7 +173,7 @@ This comprehensive analysis provides the insights needed to enhance customer sat
 
 Key insights revealed include:
 
-- **🧾 Top 5 Selling Items and Their Category – Revenue Insights**
+- ** Top 5 Selling Items and Their Category – Revenue Insights**
   
   ![](https://github.com/Tamoze/-Restaurant-Sales-Analysis---Q1-2003/blob/main/Top%205%20Order%20Items%20and%20their%20Category%20by%20Revnue.png)
 
