@@ -1,6 +1,6 @@
-# 📊 Restaurant Sales Analysis - Q1 2003
+# Restaurant Sales Analysis - Q1 2003
 
-## 📖 Introduction
+## Introduction
 
 This project presents a **first-quarter data analysis for a restaurant business in 2003**, using **Microsoft Excel** to uncover patterns in customer orders, product performance, and sales trends. The dataset consists of two related tables:
 
@@ -17,22 +17,23 @@ The objective is to transform raw transactional data into meaningful business in
 
 ## 📑 Table of Contents
  
-1. [📌 Project Overview](#-project-overview)  
-2. [🎯 Project Scope](#-project-scope)  
-3. [💼 Business Objectives](#-business-objectives)  
-4. [📄 Document Purpose](#-document-purpose)  
-5. [🧩 Use Case](#-use-case)  
-6. [🗂️ Data Source](#️-data-source)  
-7. [🧾 Dataset Overview](#-dataset-overview)  
-8. [🧹 Data Cleaning and Processing](#-data-cleaning-and-processing)  
-9. [📊 Data Analysis and Insights](#-data-analysis-and-insights)  
-10. [✅ Recommendations](#-recommendations)  
-11. [📌 Conclusion](#-conclusion)  
-12. [📁 Repository Contents](#-repository-contents)  
+1. [Project Overview](#project-overview)  
+2. [Project Scope](#project-scope)  
+3. [Business Objectives](#business-objectives) 
+4. [Document Purpose](#document-purpose)  
+5. [Use Case](#use-case)  
+6. [Data Source](#data-source)  
+7. [Dataset Overview](#dataset-overview)  
+8. [Data Cleaning and Processing](#data-cleaning-and-processing)  
+9. [Data Analysis and Insights](#data-analysis-and-insights)  
+10. [Recommendations](#recommendations)  
+11. [Conclusion](#conclusion)  
+12. [Repository Contents](#-repository-contents)
+13. [Dashboard Preview](#-dashboard-preview)
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on conducting a **comprehensive analysis of restaurant sales data** using **Microsoft Excel**. The dataset, sourced from **Maven Analytics**, includes detailed transactional records covering:
 
@@ -54,7 +55,7 @@ The goal of this analysis is to **derive actionable business insights** and **in
 
 ---
 
-## 🎯 Project Scope
+## Project Scope
 
 The scope of this project is limited to the analysis of **Q1 2003** restaurant sales data. The aims are to:
 
@@ -65,7 +66,7 @@ The scope of this project is limited to the analysis of **Q1 2003** restaurant s
 
 ---
 
-## 💼 Business Objectives
+## Business Objectives
 
 The business objectives of this analysis are to:
 
@@ -76,7 +77,7 @@ The business objectives of this analysis are to:
 
 ---
 
-## 📄 Document Purpose
+## Document Purpose
 
 This documentation serves to:
 
@@ -87,19 +88,19 @@ This documentation serves to:
 
 ---
 
-## 🧩 Use Case
+## Use Case
 
 This analysis benefits multiple stakeholders:
 
-### 🔹 Business Owners & Management
+### Business Owners & Management
 - **Decision-Making Support:** Sales trends and product performance analysis enable better strategic decisions
 - **Revenue Optimization:** Identify high-demand products and peak sales periods for pricing and promotion strategies
 
-### 🔹 Marketing Team  
+### Marketing Team  
 - **Targeted Campaigns:** Segment customers and products for focused marketing efforts
 - **Promotional Strategies:** Maximize impact by targeting high-traffic periods with effective promotions 
 
-### 🔹 Operations Team  
+### Operations Team  
 - **Staffing Efficiency:** Optimize staff scheduling based on sales patterns
 - **Process Improvement:** Enhance service quality and kitchen operations by understanding order volumes
 
@@ -107,7 +108,7 @@ This comprehensive analysis provides the insights needed to enhance customer sat
 
 ---
 
-## 🗂️ Data Source
+## Data Source
 
 - **Provider:** [Maven Analytics](https://app.mavenanalytics.io/datasets?order=-fields.dateAdded&search=restaurant+orders)  
 - **Type:** Real-world, simulated business dataset  
@@ -115,7 +116,7 @@ This comprehensive analysis provides the insights needed to enhance customer sat
 
 ---
 
-## 🧾 Dataset Overview
+## Dataset Overview
 
 ### Tables Included:
 
@@ -127,7 +128,7 @@ This comprehensive analysis provides the insights needed to enhance customer sat
 
 ---
 
-  ## 🧹 Data Cleaning and Processing
+  ## Data Cleaning and Processing
 
 - **Merged tables using `item_id`:**  
   The `Menu_item` and `Order_details` tables were merged to create a consolidated dataset for comprehensive analysis.  
@@ -168,7 +169,7 @@ This comprehensive analysis provides the insights needed to enhance customer sat
 
 ---
 
-## 📊 Data Analysis and Insights
+## Data Analysis and Insights
 
 Key insights revealed include:
 
@@ -245,7 +246,7 @@ Chips & Salsa – $3,227.00
 Insight:
 Mexican dishes deliver strong revenue through a balanced mix of burritos and tortas, with steak-based options earning the highest. The spread suggests robust customer interest in hearty, flavorful street-style items.
 
-*📊 Summary of Key Insights*
+* Summary of Key Insights*
 
 Korean Beef Bowl is the overall revenue leader — a standout item for marketing and promotions.
 
@@ -255,15 +256,15 @@ Mexican and American items offer strong competition and diversity, providing opp
 
 Consistent revenue distribution across items in all categories reflects a balanced menu with broad customer appeal.
 
-- 🍽️ **High Spending Order and its Menu Items from Total Transactions** 
+-**High Spending Order and its Menu Items from Total Transactions** 
 
-- ⏰ **Sales Peaks** during weekend lunch and dinner hours  
-- 🥗 **Category Performance**   
-- ⚠️ **Low-Performing Items by Revenue** identified for review  
+-**Sales Peaks** during weekend lunch and dinner hours  
+-**Category Performance**   
+-**Low-Performing Items by Revenue** identified for review  
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
 - Focus marketing on best-sellers through promotions or bundles  
 - Phase out or rework low-selling products  
@@ -272,7 +273,7 @@ Consistent revenue distribution across items in all categories reflects a balanc
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This Excel-based analysis demonstrates how raw restaurant data can be transformed into powerful business intelligence. By evaluating sales patterns, menu trends, and revenue flow, the business can make informed decisions that enhance service delivery, customer satisfaction, and profitability.
 
